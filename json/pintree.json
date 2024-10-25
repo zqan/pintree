@@ -742,6 +742,13 @@
             "title": "中国邮政储蓄银行",
             "icon": "https://logo.clearbit.com/www.psbc.com",
             "url": "https://www.psbc.com/cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729836865048,
+            "title": "iSpy - 最佳视频监控和安全摄像头软件，用于运动检测和远程监控",
+            "icon": "https://logo.clearbit.com/www.ispyconnect.com",
+            "url": "https://www.ispyconnect.com/zh-cn/"
           }
         ]
       },
@@ -1344,6 +1351,13 @@
             "title": "FTP文件服务器",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/jark006/FtpServer"
+          },
+          {
+            "type": "link",
+            "addDate": 1729773220584,
+            "title": "MediaGo m3u8流媒体下载嗅探",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/caorushizi/mediago?tab=readme-ov-file"
           }
         ]
       },
@@ -1526,6 +1540,13 @@
             "title": "哔嘀影视",
             "icon": "https://logo.clearbit.com/www.bdys.me",
             "url": "https://www.bdys.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729774163857,
+            "title": "域名列表 - 电影先生",
+            "icon": "https://logo.clearbit.com/dianyi.ng",
+            "url": "https://dianyi.ng/web.html"
           }
         ]
       },
